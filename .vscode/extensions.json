@@ -1,0 +1,33 @@
+{
+  "recommendations": [
+    "ms-azuretools.vscode-azurefunctions",
+    "ms-python.python",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode.azure-account",
+    "ms-vscode.powershell",
+    "ms-vsliveshare.vsliveshare",
+    "ms-toolsai.datawrangler",
+    "ms-azuretools.vscode-docker",
+    "ms-azuretools.azure-dev",
+    "ms-azuretools.vscode-bicep",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-azuretools.vscode-azureserverlesspack",
+    "ms-azure-devops.azure-pipelines",
+    "ms-python.vscode-pylance",
+    "ms-python.isort",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "azurite.azurite",
+    "github.vscode-github-actions",
+    "github.codespaces",
+    "github.remotehub",
+    "pspester.pester-test",
+    "eamodio.gitlens",
+    "hediet.vscode-drawio",
+    "42crunch.vscode-openapi",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-german"
+  ]
+}

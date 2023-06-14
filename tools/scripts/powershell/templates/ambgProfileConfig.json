@@ -1,0 +1,8 @@
+{
+    "ModulesToInstall": [
+        "Az",
+        "PSScriptAnalyzer",
+        "Az.Tools.Predictor",
+        "Pester"
+    ]
+}
